@@ -1,8 +1,11 @@
 # homework1
 
-Took the provided index.html and style sheet and refactored the code and followed the acceptance criteria with the criteria listed below.
+Deployed application: https://ejlopez44.github.io/homework1/
 
-GIVEN a webpage meets accessibility standards
+Exercise: Refactor the provided html and style sheet; meet accessibility requirements.
+
+Version 4
+- Updated navigation links to redirect to corresponding article div id's
 
 Version 3
 - Updated html with commments describing each element
